@@ -37,6 +37,6 @@ def solve_n_queens(n):
     return solutions
 
 # Example usage
-n = 8
+n = 4 
 solutions = solve_n_queens(n)
 print(f"Total solutions for {n}-Queens: {len(solutions)}")
